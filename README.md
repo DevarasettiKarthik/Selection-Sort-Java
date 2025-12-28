@@ -8,7 +8,7 @@ Selection sort repeatedly selects the **smallest element** from the unsorted par
 - Reads the size of the array
 - Stores elements in an array
 - Finds the minimum element in the unsorted part
-- Swaps it with the first unsorted position
+- Swaps it with the first unsorted element
 - Repeats the process until the array is sorted
 
 ## Input Format
